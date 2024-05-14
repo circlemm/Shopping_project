@@ -1,45 +1,34 @@
-登录测试账号：(heima282-293)
+- #### 项目描述：
+
+  在某站上的学习项目。
+
+- #### 主要技术：
+  Pinia ElementPlus Vue3+Setup Vue-Router Vueuse
+
+- #### 项目亮点
+  基于业务逻辑的组件拆分思想
+  
+  长页面吸顶交互实现
+  
+  图片懒加载指令封装
+  
+  面板插槽组件等业务通用组件封装
+ 
+  SKU电商组件封装
+ 
+  通用逻辑函数封装
+ 
+  路由缓存处理
+
+- #### 其他
+- 登录账号：(heima282-293)
 heima282
-密码：hm#qd@23!
 
-沙箱账号：
+  密码：hm#qd@23!
+
+- 沙箱账号：
 scobys4865@sandbox.com
-登录和支付密码：111111
+
+  登录和支付密码：111111
 
 
-
-# vue3-pro
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
